@@ -16,7 +16,7 @@ import javax.swing.KeyStroke;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-/** This class is responsible for the User interface of the calculator.
+/** This class is responsible for the User interface of the Calculator.
  * It draws the various buttons and layout of the calculator.
  * It is also responsible for actions of the button.
  * @version 1.1.1.0
